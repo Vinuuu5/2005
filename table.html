@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Table with 4 Columns</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sample Table with 4 Columns</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>name</th>
+                <th>roll no</th>
+                <th>dept </th>
+                <th>score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>vinu</td>
+                <td>1</td>
+                <td>ece</td>
+                <td>100</td>
+            </tr>
+            <tr>
+                <td>sach</td>
+                <td>2</td>
+                <td>ece</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td>riti</td>
+                <td>3</td>
+                <td>ece</td>
+                <td>69</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

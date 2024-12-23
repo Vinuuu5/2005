@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgba(141, 155, 193, 0.075);
+}
+.d1
+{
+    border: 6px solid black;
+    position:absolute;
+    margin-top: 50px;
+}
+.d2
+{
+    position: relative;
+    top: -20px;
+}
+

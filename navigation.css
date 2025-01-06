@@ -1,0 +1,11 @@
+.index{
+
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+}
+li{
+    text-decoration:aqua;
+    list-style: disc;
+}

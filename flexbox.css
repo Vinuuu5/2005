@@ -1,0 +1,19 @@
+.container
+{
+display :flex;
+}
+.container .one{
+    background-color: red;
+    border:  150px solid red;
+    height:150px;
+}
+.container .two{
+    background-color: yellow;
+    border: 150px solid yellow;
+    height:150px;
+}
+.container .three{
+    background-color: red;
+    border: 150px solid red;
+    height:150px;
+}

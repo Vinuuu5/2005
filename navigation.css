@@ -1,11 +1,10 @@
-.index{
 
-}
 ul{
     display:flex;
     justify-content: space-between;
 }
 li{
-    text-decoration:aqua;
-    list-style: disc;
+    text-decoration:none;
+    list-style: none;
+    shape-outside: -moz-element();
 }

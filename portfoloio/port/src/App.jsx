@@ -12,7 +12,7 @@ function App() {
             <div class="header">
                 <img src="https://via.placeholder.com/120" alt="Profile Picture"></img>
                 <h1>S VINUSHREE</h1>
-                <p>Aspiring Electronics and Communication Engineer | Embedded Systems Enthusiast</p>
+                <p>Aspiring Electronic and Communication Engineer | Embedded Systems Enthusiast</p>
             </div>
     
             <div class="section about">
